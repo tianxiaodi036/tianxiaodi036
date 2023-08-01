@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tianxiaodi036
+- 👀 I’m interested in Software Engineering. I’m currently learning Ruby on Rails.
+- 🌱 Eager to contribute to and learn from open-source projects.
